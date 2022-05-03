@@ -7,7 +7,7 @@ npm run server
 
 ```
 
-Para correr en frontend
+Para correr el frontend
 
 ```sh  
 npm start
